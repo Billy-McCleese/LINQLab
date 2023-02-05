@@ -1,0 +1,15 @@
+C:\Git\LINQLab\LINQLab\bin\Debug\net6.0\LINQLab.exe
+C:\Git\LINQLab\LINQLab\bin\Debug\net6.0\LINQLab.deps.json
+C:\Git\LINQLab\LINQLab\bin\Debug\net6.0\LINQLab.runtimeconfig.json
+C:\Git\LINQLab\LINQLab\bin\Debug\net6.0\LINQLab.dll
+C:\Git\LINQLab\LINQLab\bin\Debug\net6.0\LINQLab.pdb
+C:\Git\LINQLab\LINQLab\obj\Debug\net6.0\LINQLab.csproj.AssemblyReference.cache
+C:\Git\LINQLab\LINQLab\obj\Debug\net6.0\LINQLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\LINQLab\LINQLab\obj\Debug\net6.0\LINQLab.AssemblyInfoInputs.cache
+C:\Git\LINQLab\LINQLab\obj\Debug\net6.0\LINQLab.AssemblyInfo.cs
+C:\Git\LINQLab\LINQLab\obj\Debug\net6.0\LINQLab.csproj.CoreCompileInputs.cache
+C:\Git\LINQLab\LINQLab\obj\Debug\net6.0\LINQLab.dll
+C:\Git\LINQLab\LINQLab\obj\Debug\net6.0\refint\LINQLab.dll
+C:\Git\LINQLab\LINQLab\obj\Debug\net6.0\LINQLab.pdb
+C:\Git\LINQLab\LINQLab\obj\Debug\net6.0\LINQLab.genruntimeconfig.cache
+C:\Git\LINQLab\LINQLab\obj\Debug\net6.0\ref\LINQLab.dll
